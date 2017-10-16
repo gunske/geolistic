@@ -31,5 +31,12 @@
   "bugs": {
     "url": "https://github.com/gunske/geolistic/issues"
   },
-  "homepage": "https://github.com/gunske/geolistic#readme"
+  "homepage": "https://github.com/gunske/geolistic#readme",
+  "dependencies": {
+    "elasticsearch": "13.3.x",
+    "csv-parse": "1.2.x",
+    "stream-transform": "0.1.x",
+    "download": "6.2.x",
+    "mocha": "4.0.x"
+  }
 }
