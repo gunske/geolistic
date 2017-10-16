@@ -1,6 +1,6 @@
 # Geolistic
 
-Import geoname data to elastic and enjoy millions of searchable locations in your app.
+Import Geoname data to Elastic and enjoy millions of searchable locations in your app.
 
 [Geoname](http://www.geonames.org/) is the most comprehensive open source geo location data source with
 more than 11 million location points. Each location comes with a wealth of
@@ -14,7 +14,7 @@ without api restrictions.
 ## Features
 * Blazing fast buffered import with batch indexing in elastic
 * Filter unwanted data based on their type (city / country etc)
-* Done for you elastic schema, add with shell script
+* Elastic schema included
 
 ## Install
 
