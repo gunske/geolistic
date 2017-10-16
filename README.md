@@ -84,8 +84,6 @@ $ node geolistic-cli.js -download AT
 * ELASTIC_PATH: Where to store data in elastic INDEX/TYPE, e.g. geonames/geoname
 * DATAPATH: Path were to download and extract data files, defaults to temp directory
 
-## Credits
-
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
