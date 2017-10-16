@@ -1,4 +1,5 @@
 # Geolistic
+[![Build Status](https://travis-ci.org/gunske/geolistic.svg?branch=master)](https://travis-ci.org/gunske/geolistic)
 
 Import Geoname data to Elastic and enjoy millions of searchable locations in your app.
 
