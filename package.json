@@ -1,0 +1,35 @@
+{
+  "name": "geolistic",
+  "version": "0.2.1",
+  "description": "Enjoy millions of searchable locations in your app by importing Geoname data into Elastic",
+  "main": "geolistic-cli.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunske/geolistic.git"
+  },
+  "keywords": [
+    "geolocation",
+    "geo",
+    "elastic",
+    "elasticsearch",
+    "nodejs",
+    "node",
+    "nodejs-modules",
+    "javascript",
+    "javascript-library"
+  ],
+  "author": "Gunnar Skeid <gunnar.skeid@gmail.com> (https://github.com/gunske/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunske/geolistic/issues"
+  },
+  "homepage": "https://github.com/gunske/geolistic#readme"
+}

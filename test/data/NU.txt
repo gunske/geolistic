@@ -1,0 +1,109 @@
+4036203	Vili	Vili		-19.06703	-169.78799	P	PPL	NU		00				0		59	Pacific/Niue	2016-06-28
+4036204	Vaohina	Vaohina		-18.99915	-169.90451	L	LCTY	NU		00				0		4	Pacific/Niue	2016-06-28
+4036205	Vailoa Chasm	Vailoa Chasm		-19	-169.91667	T	GRGE	NU		00				0		1	Pacific/Niue	1993-12-22
+4036206	Vaiila	Vaiila		-19.01667	-169.91667	L	LCTY	NU		00				0		74	Pacific/Niue	1993-12-22
+4036207	Vahavaha	Vahavaha		-19.10057	-169.81499	P	PPL	NU		00				0		66	Pacific/Niue	2015-08-31
+4036208	Tutuila	Tutuila		-18.95	-169.9	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036209	Tumukieto	Tumukieto		-19.1	-169.86667	L	LCTY	NU		00				0		41	Pacific/Niue	1993-12-22
+4036210	Tumea	Tumea		-18.98333	-169.8	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036211	Tukitukipule	Tukitukipule		-19	-169.91667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036212	Tuapa	Tuapa	Tuapa	-18.95	-169.9	P	PPL	NU		00				129		-9999	Pacific/Niue	2013-08-18
+4036213	Tomb Point	Tomb Point		-19.03333	-169.91667	T	PT	NU		00				0		47	Pacific/Niue	1993-12-22
+4036214	Toi	Toi	Toi	-18.97399	-169.85327	P	PPL	NU		00				0		63	Pacific/Niue	2016-06-28
+4036215	Toa	Toa		-19.05	-169.91667	L	LCTY	NU		00				0		38	Pacific/Niue	1993-12-22
+4036216	Tipa	Tipa	Blow Hole Point,Tipa	-19.1	-169.91667	T	PT	NU	NU	00				0		77	Pacific/Niue	2012-01-18
+4036217	Tiatele	Tiatele		-18.95	-169.81667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036218	Tialeuta	Tialeuta		-18.95	-169.85	L	LCTY	NU		00				0		2	Pacific/Niue	1993-12-22
+4036219	Taumalala	Taumalala		-19.05	-169.78333	L	LCTY	NU		00				0		55	Pacific/Niue	1993-12-22
+4036220	Taueau	Taueau		-19	-169.91667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036221	Tapaike	Tapaike		-18.95	-169.86667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036222	Taoli	Taoli		-19.1	-169.88333	P	PPL	NU		00				0		57	Pacific/Niue	1993-12-22
+4036223	Tamatakula	Tamatakula		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036224	Tamakautoga	Tamakautoga	Tamakautoga	-19.0899	-169.91863	L	LCTY	NU		00				0		16	Pacific/Niue	2016-06-28
+4036225	Talakifea	Talakifea		-19.01667	-169.91667	L	LCTY	NU		00				0		74	Pacific/Niue	1993-12-22
+4036226	Takaoga	Takaoga	Takaoga,Takaogo	-19.02386	-169.81293	L	LCTY	NU	NU	00				0		23	Pacific/Niue	2016-06-28
+4036227	Tahileleki	Tahileleki		-19	-169.91667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036228	Pikiona	Pikiona		-19.0663	-169.82404	P	PPL	NU		00				0		19	Pacific/Niue	2016-06-28
+4036229	Patuoko	Patuoko		-18.97152	-169.81417	L	LCTY	NU		00				0		67	Pacific/Niue	2015-08-31
+4036230	Nukufetau	Nukufetau		-19.07891	-169.84923	P	PPL	NU		00				0		59	Pacific/Niue	2015-08-31
+4036231	Niue Island	Niue Island	Ile de Niue,Iniue,Niue,Niue Island,Savage Island	-19.033	-169.866	T	ISL	NU	NU	00				0		35	Pacific/Niue	2017-01-27
+4036232	Niue	Niue	IUE,Isla Niue,Nie,Nija,Nijue,Nioe,Nioue,Nioué,Nioé,Niue,Niue Adalari,Niue Adaları,Niue Arili,Niue nutome,Niueh,Niueh araly,Niui,Niuje,Niujė,Niuo,Niuwe,Niuè,Niué,Niué Arili,Niuē,Nive,Niwe,Niye,Niyu,Niyuwe,Niûe,Nju,Nyue,Nyuwe,Nyué,Nívé,Orileede Niue,Orílẹ́ède Niue,Republic of Niue,i-Niue,n'yu'e,n'yuve,ni xu xe,ni'u,ni'u'e,ni'uye,niu ai,niue,niue dao,niyu,niyu'i,niyuve,nu'u,nyway,nywwh,nywwy,nywy,nywyh,nyyw,nyywy,Νιούε,Ние,Ниуе,Ниуэ,Ниуэ аралы,Нијуе,Ніуе,Ніуэ,Нія,Նիուե,ניאו,ניואה,ניווה,نيواى,نيوي,نييوي,نیئو,نیوئه,نیووی,نیووے,ނީއު,नियुइ,नीयू,न्युए,নিউয়ে,নুউ,ਨਿਊਏ,નીયુ,ନିଉ,நியுவே,நியூ,నియు,ನಿಯು,നിയുവെ,ന്യൂവേ,නියූ,นีอูเอ,ນີຢູ,ནིའུ་ཝ།,ნიუე,ኒኡይ,ニウエ,ニウエ島,紐埃,纽埃,니우에	-19.03333	-169.86667	A	PCLS	NU	NU	00				2166		32	Pacific/Niue	2017-06-02
+4036233	Natuku	Natuku		-19.03333	-169.78333	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036234	Mutalau	Mutalau	Mutalau	-18.93333	-169.83333	P	PPL	NU		00				133		-9999	Pacific/Niue	2013-08-17
+4036235	Muilimu	Muilimu		-18.95	-169.9	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036236	Motutapu	Motutapu	Motutapu,Motutopu	-19.034	-169.867	L	LCTY	NU	NU	00				0		32	Pacific/Niue	2017-01-27
+4036237	Motule	Motule		-18.93333	-169.83333	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036238	Motu	Motu		-19.02962	-169.80143	P	PPL	NU		00				0		43	Pacific/Niue	2016-06-28
+4036239	Meleuli	Meleuli		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036240	Matavao	Matavao		-19.06918	-169.87996	P	PPL	NU		00				0		30	Pacific/Niue	2016-06-28
+4036241	Matapa Chasm	Matapa Chasm		-18.95967	-169.87764	T	GRGE	NU		00				0		30	Pacific/Niue	2015-08-31
+4036242	Matalave	Matalave		-18.95	-169.9	P	PPL	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036243	Matalakuti	Matalakuti		-18.95	-169.81667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036244	Matafonua	Matafonua		-18.95	-169.81667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036245	Mataafi	Mataafi		-19.11439	-169.84765	P	PPL	NU		00				0		51	Pacific/Niue	2015-08-31
+4036246	Mamakula	Mamakula	Mamakula,Namukulu	-18.95	-169.9	P	PPL	NU		00				14		-9999	Pacific/Niue	2012-01-18
+4036247	Makefu	Makefu	Makefu	-18.98333	-169.91667	P	PPL	NU		00				87		-9999	Pacific/Niue	2013-08-18
+4036248	Makatutaha	Makatutaha		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036249	Makatugi	Makatugi		-19.08333	-169.91667	L	LCTY	NU		00				0		60	Pacific/Niue	1993-12-22
+4036250	Makatu	Makatu		-18.98333	-169.91667	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036251	Makanga	Makanga		-18.99416	-169.81615	L	LCTY	NU		00				0		1	Pacific/Niue	2016-06-28
+4036252	Makanga	Makanga		-18.95	-169.86667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036253	Makaapiapi	Makaapiapi		-19.1176	-169.90253	P	PPL	NU		00				0		17	Pacific/Niue	2016-06-28
+4036254	Lolokieto	Lolokieto		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036255	Liku	Liku	Liku	-19.03333	-169.78333	P	PPL	NU		00				71		-9999	Pacific/Niue	2012-02-02
+4036256	Liha	Liha		-18.95	-169.8	P	PPL	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036257	Lavaka	Lavaka		-18.95	-169.81667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036258	Lalotuake	Lalotuake		-19.01667	-169.91667	L	LCTY	NU		00				0		74	Pacific/Niue	1993-12-22
+4036259	Lalole	Lalole		-18.96667	-169.8	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036260	Laloata	Laloata		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036261	Lakepa	Lakepa	Lakepa	-18.98333	-169.8	P	PPL	NU		00				88		-9999	Pacific/Niue	2013-08-18
+4036262	Kavaka	Kavaka		-19.03333	-169.78333	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036263	Kaopa	Kaopa		-19.01667	-169.78333	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036264	Kaimite	Kaimite		-19.05	-169.91667	L	LCTY	NU		00				0		38	Pacific/Niue	1993-12-22
+4036265	Huvalu	Huvalu		-19.08856	-169.82383	L	LCTY	NU		00				0		4	Pacific/Niue	2016-06-28
+4036266	Hina	Hina		-18.95	-169.9	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036267	Hikutivake	Hikutivake		-18.96478	-169.88339	P	PPL	NU		00				63		34	Pacific/Niue	2015-08-31
+4036268	Hakupu	Hakupu	Hakupu	-19.12753	-169.84623	P	PPL	NU		00				221		54	Pacific/Niue	2015-08-31
+4036269	Grutulili	Grutulili		-18.96667	-169.81667	L	LCTY	NU		00				0		73	Pacific/Niue	1993-12-22
+4036270	Fumaila	Fumaila		-18.95	-169.88333	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036271	Fulalatea	Fulalatea		-19.10381	-169.89532	P	PPL	NU		00				0		11	Pacific/Niue	2016-06-28
+4036272	Fugigie	Fugigie		-19	-169.91667	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+4036273	Fuata	Fuata		-19.0609	-169.89404	P	PPL	NU		00				0		40	Pacific/Niue	2016-06-28
+4036274	Fatiau	Fatiau		-19.11667	-169.9	P	PPL	NU		00				60		65	Pacific/Niue	2006-01-27
+4036275	Falehavaiki	Falehavaiki		-19.1	-169.86667	L	LCTY	NU		00				0		41	Pacific/Niue	1993-12-22
+4036276	Fakaagi	Fakaagi		-19.1	-169.9	L	LCTY	NU		00				0		48	Pacific/Niue	1993-12-22
+4036277	Fagalilika	Fagalilika		-19.06792	-169.91065	P	PPL	NU		00				0		43	Pacific/Niue	2016-06-28
+4036278	Avatele Bay	Avatele Bay	Avatele Bay	-19.11962	-169.9173	H	BAY	NU		00				0		28	Pacific/Niue	2015-08-31
+4036279	Avatele	Avatele	Avatele,Matavaihala,Oneonepata	-19.1	-169.91667	P	PPL	NU		00				150		77	Pacific/Niue	2013-08-18
+4036280	Anakula	Anakula		-19.01667	-169.91667	L	LCTY	NU		00				0		74	Pacific/Niue	1993-12-22
+4036281	Anaheke	Anaheke		-18.98333	-169.91667	L	LCTY	NU		00				0		-9999	Pacific/Niue	1993-12-22
+4036282	Ana	Ana		-19.06792	-169.80499	P	PPL	NU		00				0		66	Pacific/Niue	2016-06-28
+4036283	Alofi Bay	Alofi Bay	Alofi Bay	-19.01667	-169.93333	H	BAY	NU		00				0		1	Pacific/Niue	2016-03-10
+4036284	Alofi	Alofi	Alofi,Alofis,Alofo,Pasjolak Alofi,a luo fei,alaphi,allopi,alophi,alopi,alwfy,arofi,xalofi,Αλόφι,Алофи,Алофі,Пасёлак Алофі,الوفی,अलोफी,അലാഫി,อาโลฟี,ალოფი,アロフィ,阿洛菲,알로피	-19.05451	-169.91768	P	PPLC	NU		00				624		51	Pacific/Niue	2016-06-28
+4036285	Aleuta	Aleuta		-19.05	-169.95	L	LCTY	NU		00				0		1	Pacific/Niue	1993-12-22
+6299957	Alofi / Niue	Alofi / Niue	IUE,NIUE	-19.08003	-169.92564	S	AIRP	NU						0	63	60	Pacific/Niue	2012-01-27
+10630010	Mutalau	Mutalau		-18.96206	-169.82954	P	PPL	NU						0		74	Pacific/Niue	2016-06-28
+10630011	Matapa Chasm	Matapa Chasm		-18.96241	-169.88203	T	VAL	NU						0		29	Pacific/Niue	2015-08-31
+10630012	Liku	Liku		-19.05388	-169.78971	P	PPL	NU						0		59	Pacific/Niue	2016-06-28
+10630013	Tautu Beach	Tautu Beach		-19.04868	-169.78145	T	BCH	NU						0		13	Pacific/Niue	2015-08-31
+10630014	Niue Island	Niue Island		-19.07218	-169.85447	L	LCTY	NU						0		53	Pacific/Niue	2015-08-31
+10630015	Avatele	Avatele		-19.12449	-169.91138	P	PPL	NU						0		29	Pacific/Niue	2016-06-28
+10630016	Avatele Beach	Avatele Beach		-19.12676	-169.91236	T	BCH	NU						0		17	Pacific/Niue	2015-08-31
+11185964	Motutapu	Motutapu		-19.02967	-169.88683	P	PPL	NU						0		26	Pacific/Niue	2016-06-28
+11185965	Lalotuake	Lalotuake		-19.01206	-169.91335	P	PPL	NU		00				0		5	Pacific/Niue	2016-06-28
+11185966	Makefu Village	Makefu Village		-19.00216	-169.91429	P	PPL	NU						0		3	Pacific/Niue	2016-06-28
+11185967	Tuapa Village	Tuapa Village		-18.99266	-169.90391	P	PPL	NU						0		4	Pacific/Niue	2016-06-28
+11185968	Tahileleki	Tahileleki		-18.98747	-169.89103	P	PPL	NU						0		12	Pacific/Niue	2016-06-28
+11185969	Namukulu Village	Namukulu Village		-18.98361	-169.89803	P	PPL	NU						0		7	Pacific/Niue	2016-06-28
+11185970	Hio Beach	Hio Beach		-18.98864	-169.90421	T	BCH	NU						0		2	Pacific/Niue	2016-06-28
+11185971	Patuoko	Patuoko		-18.9714	-169.81293	P	PPL	NU						0		1	Pacific/Niue	2016-06-28
+11185972	Makanga	Makanga		-18.99514	-169.81301	P	PPL	NU						0		1	Pacific/Niue	2016-06-28
+11185973	Lakepa Village	Lakepa Village		-19.01056	-169.80589	P	PPL	NU						0		1	Pacific/Niue	2016-06-28
+11185974	Takaoga	Takaoga		-19.01555	-169.81009	P	PPL	NU						0		10	Pacific/Niue	2016-06-28
+11185975	Huvalu Forest Conservation Area	Huvalu Forest Conservation Area		-19.08199	-169.81816	L	RESN	NU						0		8	Pacific/Niue	2016-06-28
+11185976	Falehavaiki	Falehavaiki		-19.10365	-169.86897	P	PPL	NU						0		10	Pacific/Niue	2016-06-28
+11185977	Vaiea	Vaiea		-19.12936	-169.88382	P	PPL	NU						0		4	Pacific/Niue	2016-06-28
+11185978	Tamakautoga	Tamakautoga		-19.09923	-169.91876	P	PPL	NU						0		6	Pacific/Niue	2016-06-28
+11185979	Huihui	Huihui		-19.07242	-169.9315	P	PPLX	NU						0		35	Pacific/Niue	2016-06-28
+11185980	Niue Post Office	Niue Post Office		-19.05409	-169.9203	S	PO	NU						0		51	Pacific/Niue	2016-06-28
+11185981	Toa	Toa		-19.04403	-169.89957	P	PPL	NU						0		34	Pacific/Niue	2016-06-28

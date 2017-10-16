@@ -1,0 +1,11 @@
+{
+  /**
+   * Config for geolistic-cli (NOT the library), remove comments to override defaults
+   *
+   * Can also be configured with env variables (see README)
+  */
+
+//  "elasticUrl": "127.0.0.1:9200",     // host and port of elastic server
+//  "elasticPath": "geonames/geoname",  // index and type in elastic
+//  "dataPath": "/tmp/"                 // path to download files (default to os temp dir)
+}
