@@ -56,6 +56,38 @@ and add it
 $ node geolistic-cli -add AT
 ```
 
+#### Searching
+
+After adding data, you can try searching:
+
+```
+$ node geolistic-cli -search Wien
+```
+
+Sample query you can use in your own project:
+```
+GET /geonames/geoname/_search
+{
+  "query" : {
+      "constant_score" : {
+         "filter" : {
+            "bool" : {
+              "must" : [
+                {"query_string": {
+                    "query": "Wien",
+                    "fields": ["name", "asciiName", "alternateNames"]}
+                },
+                { "range": { "population": {"gt": 0}}},
+                { "term": { "featureClass": "P" }}
+              ]
+           }
+         }
+      }
+   },
+   "sort": [ {"population": {"order": "desc"}}]
+}
+```
+
 ### Using the library
 Use as library or command line tool. Init the library like this:
 
@@ -66,7 +98,7 @@ geolistic.getGeoNameCountries({allColoumns: true}, function (err, countries) {
 });
 ```
 
-See the api documentation here
+See the api documentation [here](./docs/index.html)
 
 ## Configuration
 

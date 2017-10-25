@@ -28,7 +28,7 @@ describe('geolistic-cli', function() {
             exec('node geolistic-cli.js -download NU', function (err, stdout, stderr) {
 
                 assert.equal(null, err);
-                assert.ok((stdout.indexOf('1 files processed') > -1));
+                assert.ok((stdout.indexOf('1 files downloaded and extracted') > -1));
 
                 done();
 
@@ -57,7 +57,7 @@ describe('geolistic-cli', function() {
             exec('export TEST=1; node geolistic-cli.js -downloadall', function (err, stdout, stderr) {
 
                 assert.equal(null, err);
-                assert.ok((stdout.indexOf(' files processed') > -1));
+                assert.ok((stdout.indexOf(' files downloaded and extracted') > -1));
 
                 done();
 

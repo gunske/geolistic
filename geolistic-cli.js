@@ -37,16 +37,18 @@ const NS_PER_SEC = 1e9;
 var processTime,
     db = null,
     countryCode = null,
+    searchString = null,
     doHelp = false,
     doAdd = false,
     doDownload = false,
+    doSearch = false,
     bufferRecords = null,
     fclasses = null;
 
-function _add(countries) {
+function _dbConnect(cb) {
 
     db = testMode ?
-        {close: function () {}, ping: function (args, fn) {fn(null);}} :
+    {close: function () {}, ping: function (args, fn) {fn(null);}} :
         new elasticsearch.Client({
             host: elasticUrl,
             log: []
@@ -60,6 +62,63 @@ function _add(countries) {
             db.close();
             return;
         }
+
+        (cb ? cb() : null);
+
+    });
+
+}
+
+function _search(searchString) {
+
+    _dbConnect(function () {
+
+        const path = elasticPath.split("/");
+
+        db.search({
+            index: path[0],
+            type: path[1],
+            size: 5,
+            body: {"query" :
+                    {"constant_score" :
+                        {"filter" :
+                            {"bool" :
+                                {"must" : [
+                                    {"query_string": {"query": searchString,
+                                        "fields": ["name", "asciiName", "alternateNames"]}},
+                                    {"range": {"population": {"gt": 0}}},
+                                    {"term": {"featureClass": "P" }}
+                                ]
+                                }
+                            }
+                        }
+                    },
+                "sort": [
+                    {"population": { "order": "desc"}}
+                ]
+                }
+        }, function (err, searchResult) {
+
+            if (err) {
+                console.error("Error with elastic query:");
+                console.error(err);
+                db.close();
+                return;
+            }
+
+            for (var i = 0; i < searchResult.hits.hits.length; i += 1) {
+                console.log(searchResult.hits.hits[i]);
+            }
+
+        });
+
+    });
+
+}
+
+function _add(countries) {
+
+    _dbConnect(function () {
 
         try {
 
@@ -211,6 +270,19 @@ for (var i = 0; i < args.length; i += 1) {
 
         countryCode = args[i];
 
+    } else if (args[i] === '-search') {
+
+        doSearch = true;
+
+        if (args.length < (i + 1)) {
+            console.error("Missing argument: search string");
+            process.exit(0);
+        }
+
+        i += 1;
+
+        searchString = args[i];
+
     } else {
 
         if (fclasses) {
@@ -226,12 +298,13 @@ for (var i = 0; i < args.length; i += 1) {
 
 }
 
-if (doHelp || (!doAdd && !doDownload)) {
+if (doHelp || (!doAdd && !doDownload && !doSearch)) {
 
     console.log("Usage: node geolistic-cli [OPTION]\n" +
         "Download or index geoname files in elastic\n" +
         "\n" +
         "Valid arguments:\n" +
+        "  -search <location>             Search for location (use after adding)\n" +
         "  -download <country code>       Download specified country geoname file\n" +
         "  -downloadall                   Download all country geoname files\n" +
         "  -add <country code> [fclasses] Index specified country geoname file\n" +
@@ -313,4 +386,9 @@ if (doDownload || doAdd) {
             }
         }
     });
+
+} else if (doSearch) {
+
+    _search(searchString);
+
 }
