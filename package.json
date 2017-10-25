@@ -1,6 +1,6 @@
 {
   "name": "geolistic",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Enjoy millions of searchable locations in your app by importing Geoname data into Elastic",
   "main": "geolistic-cli.js",
   "directories": {

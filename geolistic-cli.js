@@ -281,7 +281,9 @@ if (doDownload || doAdd) {
                     "parallelDownloads": 5,
                     "postDownload": function (files) {
 
-                        console.log(files.join("\n"));
+                        for (var i = 0; i < files.length; i += 1) {
+                            console.log("Downloaded " + files[i]);
+                        }
 
                     },
                     "extract": true
@@ -290,7 +292,7 @@ if (doDownload || doAdd) {
                     if (err) {
                         console.error(err);
                     } else {
-                        console.log(filesProcessed + " files processed");
+                        console.log(filesProcessed + " files downloaded and extracted");
 
                         if (doAdd) {
                             _add(countries);
