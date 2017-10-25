@@ -243,7 +243,7 @@ if (doHelp || (!doAdd && !doDownload)) {
         "  P - city, village\n" +
         "  etc...\n" +
         "\n" +
-        "Example: node geolistic-cli -add NO F A"
+        "Example: node geolistic-cli -add NO P A"
     );
 
     return;
